@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://hubsaas.org</loc>
+	<lastmod>2024-07-04</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/40667086621.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/40667086621.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/CleanShot_2024-07-04_at_15.19.10_2x-removebg-preview%20%281%29.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/CleanShot_2024-07-04_at_15.19.10_2x-removebg-preview%20%281%29.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/image-removebg-preview%20%283%29%20%281%29.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/image-removebg-preview%20%283%29%20%281%29.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/image__55_-removebg-preview.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/image__55_-removebg-preview.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/image-removebg-preview%20%284%29.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/image-removebg-preview%20%284%29.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/image-removebg-preview%20%281%29%20%282%29.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/image-removebg-preview%20%281%29%20%282%29.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hubsaas.org/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
